@@ -1,9 +1,0 @@
-lib/phpthumb/cache/phpThumb_cache*
-images/barcodes/*
-images/persons/*
-images/docs/*
-files/*
-repository/*
-.DS_Store
-._.*
-._*
